@@ -1,13 +1,13 @@
 {
-  "main.css": "/webviewer-react-sample/static/css/main.736e21ba.chunk.css",
-  "main.js": "/webviewer-react-sample/static/js/main.173bdbb4.chunk.js",
-  "main.js.map": "/webviewer-react-sample/static/js/main.173bdbb4.chunk.js.map",
-  "static/js/1.bdc13083.chunk.js": "/webviewer-react-sample/static/js/1.bdc13083.chunk.js",
-  "static/js/1.bdc13083.chunk.js.map": "/webviewer-react-sample/static/js/1.bdc13083.chunk.js.map",
-  "runtime~main.js": "/webviewer-react-sample/static/js/runtime~main.23dd03fb.js",
-  "runtime~main.js.map": "/webviewer-react-sample/static/js/runtime~main.23dd03fb.js.map",
-  "static/css/main.736e21ba.chunk.css.map": "/webviewer-react-sample/static/css/main.736e21ba.chunk.css.map",
-  "index.html": "/webviewer-react-sample/index.html",
-  "precache-manifest.eefc2f142bcf22dc4105112dd99a0b82.js": "/webviewer-react-sample/precache-manifest.eefc2f142bcf22dc4105112dd99a0b82.js",
-  "service-worker.js": "/webviewer-react-sample/service-worker.js"
+  "main.css": "/Samarthegde/news.git/static/css/main.736e21ba.chunk.css",
+  "main.js": "/Samarthegde/news.git/static/js/main.173bdbb4.chunk.js",
+  "main.js.map": "/Samarthegde/news.git/static/js/main.173bdbb4.chunk.js.map",
+  "static/js/1.bdc13083.chunk.js": "/Samarthegde/news.git/static/js/1.bdc13083.chunk.js",
+  "static/js/1.bdc13083.chunk.js.map": "/Samarthegde/news.git/static/js/1.bdc13083.chunk.js.map",
+  "runtime~main.js": "/Samarthegde/news.git/static/js/runtime~main.51420080.js",
+  "runtime~main.js.map": "/Samarthegde/news.git/static/js/runtime~main.51420080.js.map",
+  "static/css/main.736e21ba.chunk.css.map": "/Samarthegde/news.git/static/css/main.736e21ba.chunk.css.map",
+  "index.html": "/Samarthegde/news.git/index.html",
+  "precache-manifest.5799c162bf163affb4a477c3fb3e9197.js": "/Samarthegde/news.git/precache-manifest.5799c162bf163affb4a477c3fb3e9197.js",
+  "service-worker.js": "/Samarthegde/news.git/service-worker.js"
 }
